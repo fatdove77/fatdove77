@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about film theory, italian litterature, editing films, social media, or politics.
 - 📫 How to reach me: rehumilebiagini@gmail.com
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fatdove77&show_icons=true&theme=radical) <br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatdove77&theme=dark&layout=compact)
